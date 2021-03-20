@@ -9,7 +9,7 @@ const Home = () => {
       <Meta title="Home" />
       <Layout>
         <h1>The Great Gatsby Bootcamp</h1>
-        <h2>I'm Amartaivan, fullstack developer</h2>
+        <h2>I'm Amartaivan, fullstack developerr</h2>
         <p>
           Need a developer?
           <Link to="/contact">Contact me.</Link>
